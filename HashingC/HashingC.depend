@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660307427 source:c:\users\jespe\documents\hashown\hash\hashingc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
